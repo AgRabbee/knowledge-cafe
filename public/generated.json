@@ -1,0 +1,52 @@
+[
+    {
+        "id": "6425d31087884debf377e671",
+        "author_name": "Liza Mathews",
+        "blog_title": "You Are Not Just Talented, You Are Spiritually Gifted",
+        "cover_image": "https://img.freepik.com/premium-photo/various-computer-equipment-with-programming-code-screens-table-dark-room-cyber-security-concept-copy-space_236854-23136.jpg?w=996",
+        "author_image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg",
+        "read_time": "10",
+        "publish_date": "2022-06-26 12:56:29",
+        "tags": ["beginners", "programming"]
+    },
+    {
+        "id": "6425d3105119b2e570af111d",
+        "author_name": "Gutierrez Stout",
+        "blog_title": "A Lesson in Reading the “Commands” of Scripture",
+        "cover_image": "https://img.freepik.com/premium-vector/software-development-illustration_73903-337.jpg?w=996",
+        "author_image": "https://img.freepik.com/free-photo/confident-bearded-macho-man-looks-pleased-has-friendly-kind-grin-face-wears-round-spectacles-pink-jumper_273609-51174.jpg?w=996&t=st=1680368985~exp=1680369585~hmac=722fa7c0d1ef1f973a0dabacb12ec6415642bf57a7bdd448870b3e849fd9f584",
+        "read_time": "2",
+        "publish_date": "2022-06-18 03:26:39",
+        "tags": ["beginners", "programming"]
+    },
+    {
+        "id": "6425d310153778a1f6ba2248",
+        "author_name": "Doreen Talley",
+        "blog_title": "You Were Loved Into Existence",
+        "cover_image": "https://img.freepik.com/free-photo/hooded-computer-hacker-stealing-information-with-laptop_155003-1918.jpg?w=996&t=st=1680369199~exp=1680369799~hmac=104bfa49fe01e462c2cc1bbe4cd3c292bafe89ac4de994528dd68a5f8de507f8",
+        "author_image": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=996&t=st=1680369028~exp=1680369628~hmac=483c7cce8ff732344efa2019b7d9580554642a459969d450060f3cb3994529d0",
+        "read_time": "3",
+        "publish_date": "2022-03-29 10:28:48",
+        "tags": ["beginners", "programming"]
+    },
+    {
+        "id": "6425d3109e7a36eb1647caf5",
+        "author_name": "Patton Lowe",
+        "blog_title": "5 Things You Can Do TODAY to Improve Your Communication!",
+        "cover_image": "https://img.freepik.com/free-photo/computer-programmer-using-laptop_53876-96073.jpg?w=1060&t=st=1680369250~exp=1680369850~hmac=d6c7aa32daa27d40122395b20f056dc481b5bd293ad7b50af3fbb47f6473a29d",
+        "author_image": "https://img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg?w=996&t=st=1680369359~exp=1680369959~hmac=88b0368c5efab5a00a693a9c2ca4c6d1830d3136529aebe4fc6528af0cce34e4",
+        "read_time": "7",
+        "publish_date": "2023-03-01 03:32:21",
+        "tags": ["beginners", "programming"]
+    },
+    {
+        "id": "6425d310bd1d4d5e1966b9f3",
+        "author_name": "Erica Stein",
+        "blog_title": "What We Can Learn from the Liturgy of Seasons",
+        "cover_image": "https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=1380&t=st=1680369240~exp=1680369840~hmac=778542527b9a87316575731644c0b8ce84db786c047b7b55fb96fc26940402a0",
+        "author_image": "https://img.freepik.com/free-photo/bohemian-man-with-his-arms-crossed_1368-3542.jpg?w=740&t=st=1680369338~exp=1680369938~hmac=86c16eb64d379719907911b285fdef3e2abc9318f0dfb5e7c74b620ab15dd3b3",
+        "read_time": "6",
+        "publish_date": "2022-01-06 09:46:41",
+        "tags": ["beginners", "programming"]
+    }
+]
